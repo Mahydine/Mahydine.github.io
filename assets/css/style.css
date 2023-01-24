@@ -177,6 +177,10 @@ a:hover {
   margin-bottom: 3rem;
 }
 
+.lead {
+  text-align: justify;
+}
+
 .title-left {
   font-size: 2rem;
   position: relative;
