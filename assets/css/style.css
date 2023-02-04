@@ -1005,6 +1005,13 @@ a:hover {
   font-size: 1.2rem;
 }
 
+.SeeWebsitePortfolio {
+  color: white;
+  padding: 8px;
+  background-color: #0078ff;
+  border-radius: 30px;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
